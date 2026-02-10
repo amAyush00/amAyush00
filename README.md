@@ -40,8 +40,8 @@
 ## 📫 Reach out to me
 
 - 📧 Email: [amahajan8_be23@thapar.edu](mailto:amahajan8_be23@thapar.edu)
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK
-- 🌐 GitHub: https://github.com/AyushMahajan
+- 💼 LinkedIn: https://www.linkedin.com/in/ayush-mahajan-62017b391/
+
 
 ---
 
