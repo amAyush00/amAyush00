@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm **Ayush Mahajan**!
 
-🎓 I'm a **pre-final year Computer Engineering undergraduate** at **Thapar Institute of Engineering and Technology**, passionate about building scalable backend systems, cloud-native applications, and solving challenging problems using data structures and algorithms.
+🎓 I'm a final year Computer Engineering undergraduate** at **Thapar Institute of Engineering and Technology**, passionate about building scalable backend systems, cloud-native applications, and solving challenging problems using data structures and algorithms.
 
 🌱 Currently exploring:
 - Advanced **Data Structures & Algorithms**
